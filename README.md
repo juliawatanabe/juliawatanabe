@@ -12,7 +12,7 @@ I really like to learn new topics, so this journey has been really fun and fulfi
 
 My favorite game genres are farming simulator, JRPG, horror and visual novel/dating sim. 
 
-- 😄 Pronouns: they/them.
+- 😄 Any pronouns.
 - 💬 I can speak **english** and **portuguese** and I can understand a bit of written spanish.
 
 ---
