@@ -4,7 +4,7 @@ Welcome to my space. 🌻
 
 ### About me 🍃
 
-I'm a non binary person from Brazil interested in game and web development. 
+I'm from Brazil and I'm interested in game and web development. 
 
 Currently I'm studying fullstack development as a self-taught, but I hope to start a degree on IT field soon. 
 
