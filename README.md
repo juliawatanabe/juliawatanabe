@@ -6,11 +6,9 @@ Welcome to my space. 🌻
 
 I'm from Brazil and I'm interested in game and web development. 
 
-Currently I'm studying fullstack development as a self-taught, but I hope to start a degree on IT field soon. 
+Currently, I'm studying information technology in a local university, aiming to specialize in software development. 
 
-I really like to learn new topics, so this journey has been really fun and fulfilling.
-
-My favorite game genres are farming simulator, JRPG, horror and visual novel/dating sim. 
+My favorite game genres are farming simulator, RPG and horror. 
 
 - 😄 Any pronouns.
 - 💬 I can speak **english** and **portuguese** and I can understand a bit of written spanish.
