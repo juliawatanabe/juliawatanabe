@@ -1,14 +1,14 @@
 ## Hi there, I'm Julia 👋
 
-Welcome to my space. 🌻
+Welcome to my space. 
 
 ### About me 🍃
 
 I'm from Brazil and I'm interested in game and web development. 
 
-Currently, I'm studying information technology in a local university, aiming to specialize in software development. 
+Currently, I'm studying Data Science,  
 
-My favorite game genres are farming simulator, RPG and horror. 
+My favorite game genres are RPG, farming simulator and horror. 
 
 - 😄 Any pronouns.
 - 💬 I can speak **english** and **portuguese** and I can understand a bit of written spanish.
